@@ -1,7 +1,7 @@
+---
+sort: 1
+---
 
-|sort  |
-|---------|
-|1     |
 # About This Site
 ddd
 ****
