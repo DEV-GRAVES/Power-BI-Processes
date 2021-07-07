@@ -1,8 +1,7 @@
 ---
-sort: 4
+sort: 2
 ---
 
 # Resources
 
 {% include list.liquid %}
-
